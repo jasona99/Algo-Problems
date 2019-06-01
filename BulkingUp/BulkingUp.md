@@ -32,4 +32,4 @@ Refers to the first food item on the menu at that restaurant. To get the number 
 calories[2][1] 
 ```
 
-**Please note: This is was written by someone who knows nothing about wrestling, financials, or the restaurant industry. Please exercise a lot of suspension of disbelief. **
+**Please note: This is was written by someone who knows nothing about wrestling, financials, or the restaurant industry. Please exercise a lot of suspension of disbelief.**
