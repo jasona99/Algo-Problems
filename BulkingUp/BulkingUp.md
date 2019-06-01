@@ -11,7 +11,7 @@ The next day, after a hearty breakfast, you go to talk to your good friend and C
 
 You decide that the most important factor is calories, and write a Java program that will maximize for the number of calories given menus from restaurants with prices and a budget. You also want your wrestling buddies to be able to use this program when you're done with it, so you make it efficient, at least partially to impress them.
 
-You are not a picky eater, but easily bore of the same food. As such, you decide you could visit several different restaurants for a single meal if it would be more economical in relation to the calories, but there is a base fee you must pay at each restaurant, regardless of how many food items you order. This will be added on to the total food cost. For instance, if you visit a restaurant with a base fee of $2 and order $10 of food, the total will be $12. If you order $5 of food, the total will be $7.
+You are not a picky eater, but easily bore of the same food. As such, you will order only one of each food item at a restaurant. You decide you could visit several different restaurants for a single meal if it would be more economical in relation to the calories, but there is a base fee you must pay at each restaurant, regardless of how many food items you order. This will be added on to the total food cost. For instance, if you visit a restaurant with a base fee of $2 and order $10 of food, the total will be $12. If you order $5 of food, the total will be $7.
 
 ____________________
 
