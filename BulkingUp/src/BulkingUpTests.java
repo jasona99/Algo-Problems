@@ -23,7 +23,7 @@ public class BulkingUpTests {
         Expected outcomes:
         resFoodTen: 900 calories for 10, 5 base cost.
         resFoodTwenty: 1700 calories for 20, 5 base cost.
-        resFoodThirty: 2300 calories for 30, 5 base cost.
+        resFoodThirty: 2400 calories for 30, 5 base cost.
          */
 
         assertEquals(900, resFoodTen.calories);
@@ -32,7 +32,7 @@ public class BulkingUpTests {
         assertEquals(1700, resFoodTwenty.calories);
         assertEquals(25, resFoodTwenty.cost, .001);
         //If here, the budget 25 case worked.
-        assertEquals(2300, resFoodThirty.calories);
+        assertEquals(2400, resFoodThirty.calories);
         assertEquals(35, resFoodThirty.cost, .001);
         //If here, the budget 35 case worked.
 
