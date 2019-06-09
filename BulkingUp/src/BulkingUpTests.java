@@ -64,11 +64,11 @@ public class BulkingUpTests {
         PlannedMeal bud20 = bulking.getPlan(20.0);
 
         assertEquals(1000, bud12.calories);
-        assertEquals(12, bud12.cost, .001);
+        assertEquals(10, bud12.cost, .001);
         //If here, budget of 12 case passed.
 
         assertEquals(1700, bud20.calories);
-        assertEquals(20, bud20.cost, .001);
+        assertEquals(18, bud20.cost, .001);
         //If here, budget of 20 case passed.
     }
 
